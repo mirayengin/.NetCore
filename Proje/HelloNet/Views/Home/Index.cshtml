@@ -30,6 +30,19 @@
                 <br/>
             }
     </div>
+    <br>
+    <br>
+    <div style="background-color:yellow">
+        @{
+            var liste = new List<string>() { "Ankara", "edremit","Bolu"};
+        }
+        @foreach (var li in liste.Select((value, index) => new { value, index }))
+        {
+                <div>@li.index) @li.value</div>
+                @* !bununla biz bir div içinde index ve value yazdırdık.  *@
+            <br/>
+        }
+    </div>
     </body>
 </html>
 
