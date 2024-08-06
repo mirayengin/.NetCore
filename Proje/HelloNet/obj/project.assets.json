@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Belgeler\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
       "projectName": "HelloNet",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Belgeler\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
+      "projectPath": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Belgeler\\.NetCore\\Proje\\HelloNet\\obj\\",
+      "outputPath": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
