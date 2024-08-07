@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "UkxnMHQr5kVJbWry69xKcGmnGnAnAgzKhhntIBqCGbY=",
+  "Hash": "Vyk3NP/t4jGJDHRiphkUCmAA5IvqEU0hkZXAMiispmo=",
   "Source": "HelloNet",
   "BasePath": "_content/HelloNet",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelloNet\\wwwroot",
+      "Source": "HelloNet",
+      "ContentRoot": "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\wwwroot\\",
+      "BasePath": "_content/HelloNet",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

@@ -444,3 +444,4 @@ c:\Users\Public\.NetCore\Proje\HelloNet\obj\Debug\net8.0\refint\HelloNet.dll
 c:\Users\Public\.NetCore\Proje\HelloNet\obj\Debug\net8.0\HelloNet.pdb
 c:\Users\Public\.NetCore\Proje\HelloNet\obj\Debug\net8.0\HelloNet.genruntimeconfig.cache
 c:\Users\Public\.NetCore\Proje\HelloNet\obj\Debug\net8.0\ref\HelloNet.dll
+C:\Users\Public\.NetCore\Proje\HelloNet\bin\Debug\net8.0\HelloNet.staticwebassets.runtime.json

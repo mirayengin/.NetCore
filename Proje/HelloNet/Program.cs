@@ -4,15 +4,17 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// MVC'yi ve View'leri yapýlandýr
+// MVC'yi ve View'leri yapï¿½landï¿½r
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Yönlendirme ve uç nokta yapýlandýrmasýný ayarla
+//! Bu method ise wwwroot dosyasÄ±nda bulunan statik dosyalardaki verileri kullanmamÄ±zÄ± saÄŸlÄ±yor.
+app.UseStaticFiles();
+// Yï¿½nlendirme ve uï¿½ nokta yapï¿½landï¿½rmasï¿½nï¿½ ayarla
 app.UseRouting();
 
-// Bu UseEndpoints ile controller yönlendirmesi yapýyoruz ilk açýldýðýnda burda index view açýlacak
+// Bu UseEndpoints ile controller yï¿½nlendirmesi yapï¿½yoruz ilk aï¿½ï¿½ldï¿½ï¿½ï¿½nda burda index view aï¿½ï¿½lacak
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
