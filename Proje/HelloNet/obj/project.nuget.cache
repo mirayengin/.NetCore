@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAHDc2P2XjE=",
+  "dgSpecHash": "7LrWWSwK+nE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
+  "projectFilePath": "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
