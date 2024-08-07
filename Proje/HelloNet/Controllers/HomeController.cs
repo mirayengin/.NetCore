@@ -16,5 +16,17 @@ namespace HelloNet.Controllers
         {
             return View();
         }
+
+        //? Burada sayfada ne olacaksa onu yazıyoruz yani ne return edeceksek. 
+        //?Burda int bir değer döndürecez o sebeple int dedik.
+        public int Index3()
+        {
+            return 32;
+        }
+
+        public string Index4()
+        {
+            return "Bugün burda tembellik yapasım geldi";
+        }
     }
 }
