@@ -10,5 +10,11 @@ namespace HelloNet.Controllers
         {
             return View();
         }
+
+        //! Bunlar ile view leri oluşturup onları run yaptırıyoruz.
+        public IActionResult Index2()
+        {
+            return View();
+        }
     }
 }
