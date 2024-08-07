@@ -48,5 +48,14 @@ namespace HelloNet.Controllers
             //? Burada Model'e göre oluşturulan list i biz bu public içindeki view e gönderiyoruz.
             return View(books);
         }
+
+        public IActionResult Index6()
+        {
+            //! Buradaki oluşturulan değerler direk controller üzerinden view e gönderilebiliyor.
+            //! View de bu değeri göstermek için import vs gerek değil.
+            ViewBag.Value = "Videolara devam";
+            ViewBag.ValueNext = "Bu .Net Core'u anlıyorum";
+            return View();
+        }
     }
 }
