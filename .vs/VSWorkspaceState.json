@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CoreEKitap",
+    "\\CoreEKitap\\Views",
+    "\\CoreEKitap\\Views\\Default",
     "\\Proje"
   ],
-  "SelectedNode": "\\CoreEKitap\\CoreEKitap.sln",
+  "SelectedNode": "\\CoreEKitap\\Views\\Default\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

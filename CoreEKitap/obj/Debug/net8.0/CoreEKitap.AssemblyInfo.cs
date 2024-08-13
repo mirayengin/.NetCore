@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreEKitap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187e9fabf2203f96e9d5971b4c45dee497731cdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6e92591cb752e3f43fb9da6465ec5ddf2d699a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreEKitap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreEKitap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
