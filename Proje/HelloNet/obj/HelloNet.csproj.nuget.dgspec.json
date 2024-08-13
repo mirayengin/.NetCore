@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj": {}
+    "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj": {
+    "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
         "projectName": "HelloNet",
-        "projectPath": "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
+        "projectPath": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\HelloNet.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\obj\\",
+        "outputPath": "C:\\Users\\Public\\.NetCore\\Proje\\HelloNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,34 @@
+﻿@model List<CoreEKitap.Models.Kitaplar>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/twitter-bootstrap/css/bootstrap.rtl.css" rel="stylesheet" />
+<link href="~/twitter-bootstrap/css/bootstrap.rtl.min.css" rel="stylesheet" />
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Kitap Ad</th>
+        <th>Yazar</th>
+    </tr>
+    @foreach(var k in Model){
+    <tr>
+        <td>@k.ID</td>
+        <td>@k.KitapAd</td>
+        <td>@k.Yazar</td>
+    </tr>
+    }
+</table>
+
+
+@* Bu view i açmak için Dafault/Index yazılmalı.
+Çünkü o şekilde ekranda bu view görünüyor. Birde view e ilk oluşturduğun view ler direk açılan yani
+browser da url e yazmana gerek yok.*@
+
+@* wwwroot dosyası içindeki style kütüphane dosyalarını process.cs içinde app.UseStaticFiles(); 
+metot'u olmadan kullanamayız.*@

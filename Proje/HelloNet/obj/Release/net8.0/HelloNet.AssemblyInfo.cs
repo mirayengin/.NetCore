@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41144e9a5595f73fe5c0b28323302cf66d81ef00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187e9fabf2203f96e9d5971b4c45dee497731cdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
