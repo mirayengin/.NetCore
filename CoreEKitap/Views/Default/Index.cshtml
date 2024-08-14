@@ -25,6 +25,14 @@
     }
 </table>
 
+<h1>New Books</h1>
+@*Burada biz componenti göstermek istedik fakat burada ViewComponents klasörü içindeki viewleri direk
+gösteremedik. Bunu göstermek için benden Views/Shared/Components/NewBooks/Default.cshtml yolunda bir view
+ouşturmamı istedi ve bende bunu oluşturunca, viewcomponentimi index.cshtml de gösterebildim.
+Bu yapmam gerekeni ise browserda veriyor.*@
+
+@await Component.InvokeAsync("NewBooks")
+
 
 @* Bu view i açmak için Dafault/Index yazılmalı.
 Çünkü o şekilde ekranda bu view görünüyor. Birde view e ilk oluşturduğun view ler direk açılan yani

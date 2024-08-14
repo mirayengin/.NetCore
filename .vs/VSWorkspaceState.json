@@ -4,8 +4,10 @@
     "\\CoreEKitap",
     "\\CoreEKitap\\Views",
     "\\CoreEKitap\\Views\\Default",
+    "\\CoreEKitap\\Views\\Shared",
+    "\\Ders",
     "\\Proje"
   ],
-  "SelectedNode": "\\CoreEKitap\\Views\\Default\\Index.cshtml",
+  "SelectedNode": "\\CoreEKitap\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

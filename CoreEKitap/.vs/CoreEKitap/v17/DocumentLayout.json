@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\viewcomponents\\newbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:viewcomponents\\newbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\views\\shared\\components\\newbooks\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:views\\shared\\components\\newbooks\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\views\\default\\_partialpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:views\\default\\_partialpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|c:\\users\\public\\.netcore\\coreekitap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4C7F54A-5C6B-40AE-80DC-D729F5484419}|CoreEKitap.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +46,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\Views\\Shared\\Components\\NewBooks\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\NewBooks\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\Views\\Shared\\Components\\NewBooks\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\NewBooks\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:32:13.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NewBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\ViewComponents\\NewBooks.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\NewBooks.cs",
+              "ToolTip": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\ViewComponents\\NewBooks.cs",
+              "RelativeToolTip": "ViewComponents\\NewBooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:09:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_PartialPage.cshtml",
               "DocumentMoniker": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\Views\\Default\\_PartialPage.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\_PartialPage.cshtml",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -64,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Public\\.NetCore\\CoreEKitap\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAVAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T13:46:39.357Z",
               "EditorCaption": ""
